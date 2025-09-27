@@ -129,7 +129,7 @@
             <mxPoint x="540" y="540" as="sourcePoint" />
             <mxPoint x="600" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="660" y="540" />
+              <mxPoint x="600" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -242,8 +242,8 @@
             <mxPoint x="370" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DbYfBxo0z6dn64pU1ZA8-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;GEOF DJERNAES&lt;/h1&gt;&lt;div&gt;W7-4&lt;/div&gt;&lt;div&gt;situation presents with 3 variables, and 4 conditions&lt;/div&gt;&lt;div&gt;if A are the same then 1&lt;/div&gt;&lt;div&gt;if 1 but not other then 2&lt;/div&gt;&lt;div&gt;if other but not 1 then 3&lt;/div&gt;&lt;div&gt;if note any then 4&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;condition node 1 represents&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;condition node 2 represents&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;condition node 3 represents&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;condition node 4 represents&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="70" width="440" height="260" as="geometry" />
+        <mxCell id="DbYfBxo0z6dn64pU1ZA8-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;GEOF DJERNAES&lt;/h1&gt;&lt;div&gt;W7-4&lt;/div&gt;&lt;div&gt;situation presents with 3 variables, and 4 conditions&lt;/div&gt;&lt;div&gt;if A and B are the same then print statement 1&lt;/div&gt;&lt;div&gt;if A but not B then print statement 2&lt;/div&gt;&lt;div&gt;if B but not A then print statement 3&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;if neither A or B then print statement 4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="67" width="290" height="163" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
